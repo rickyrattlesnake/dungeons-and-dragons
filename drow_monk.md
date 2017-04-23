@@ -63,7 +63,7 @@ Proficiencies:
     - Hand Crossbow
     - Perception
     - Medicine
-    - Religion
+    - Stealth
     - Insight
 
 ## Abilities and Features
