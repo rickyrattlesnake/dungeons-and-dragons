@@ -37,14 +37,14 @@ Languages:
 ### Items:
 
 
-## Backstory --
-Once a follower of Laviatar
-Blinded in combat and lost social status and outcast from drow society
-Prejudice against other drow and their social structures
-Generally hated by commoners (when they see him as a drow)
-    - he is usually cloaked
-Joined the monastery of Illmayter
-Monastery was destroyed by Cultists and a valuable relic was stolen from it
+## Backstory
++ Once a follower of Laviatar
++ Blinded in combat and lost social status and outcast from drow society
++ Prejudice against other drow and their social structures
++ Generally hated by commoners (when they see him as a drow)
+    + he is usually cloaked
++ Joined the monastery of Illmayter
++ Monastery was destroyed by Cultists and a valuable relic was stolen from it
 
 ##
 
