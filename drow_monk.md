@@ -1,5 +1,7 @@
-Name: Dro Dyrr
+Name: Kaladrin Deani
+
 Race: Dark Elf
+
 Class: Monk
 
 Experience Points: 890
