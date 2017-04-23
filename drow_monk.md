@@ -48,9 +48,8 @@ Languages:
 + Joined the monastery of Illmayter
 + Monastery was destroyed by Cultists and a valuable relic was stolen from it
 
-##
-
-Spells:
+## Cantrips and Spells
+- Spare the Living (lvl 0) 
 - Darkness (lvl 5)
     + 15 ft radius
     + twice a day
@@ -59,7 +58,7 @@ Spells:
     + 20ft cube
     + once a day
 
-Proficiencies:
+## Proficiencies:
     - Simple weapons
     - Short swords
     - Hand Crossbow
@@ -88,6 +87,3 @@ Proficiencies:
     + Martial Arts
     + Ki
     + Unarmoured Movement
-
-
-
