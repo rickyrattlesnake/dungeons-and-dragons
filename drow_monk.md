@@ -1,52 +1,51 @@
 Name: Kaladrin Deani
-
 Race: Dark Elf
-
 Class: Monk
-
+--- 
 Experience Points: 890
-Level: 2
+Level: 3
+---
 
-Hit Points: 14 / 14
-Ki Points: 2 / 2
-Proficiency Bonus: +2
+## Attributes
+| -----------|--------------:|
+| Hit Points | 23 / 23 |
+| Ki Points | 3 / 3 |
+| Armor Class | 16 | 
+| Initiative | +4 |
+| Speed | 50ft |
+| Proficiency | +2 |
 
-Ability Scores --
-    Strength: 14 (2)
-    Dexterity: 18 (4)
+## Ability Scores 
+| Name | Value | Modifier |
+|--|--:|--:|
+| Strength | 14 | +2 |
+| Dexterity | 18 | +4 |
     Constitution: 14 (2)
     Intelligence: 10 (0)
     Wisdom: 15 (2)
     Charisma: 10 (0)
-
-Armor Class: 16
-Initiative: 4
-Speed: 40ft
 
 Languages:
 - Common
 - Undercommon
 - Elven
 
-## Inventory [ 25 / 30]
+## Inventory [ 30 / 30]
+### Money: 
+    - 150Gold 
 ### Weapons:
     - Hands 1d4 (bludgeon)
     - Heavy Crossbow 1d10 (pierce), [18]
-    - Short Sword 1d6 (pierce) [2]
     - Darts 1d4 (pierce) (x10) [2]
 ### Tools:
     - Herbalism Kit [3]
 ### Items:
-
+    - Potion of Healing 1d6 (x4)
+    - Cultist Clothing
+    - 
 
 ## Backstory
-+ Once a follower of Laviatar
-+ Blinded in combat and lost social status and outcast from drow society
-+ Prejudice against other drow and their social structures
-+ Generally hated by commoners (when they see him as a drow)
-    + he is usually cloaked
-+ Joined the monastery of Illmayter
-+ Monastery was destroyed by Cultists and a valuable relic was stolen from it
+~~Once a follower of Laviatar. Blinded in combat and lost social status and outcast from drow society. Prejudice against other drow and their social structures. Generally hated by commoners (when they see him as a drow). He is usually cloaked. Joined the monastery of Illmayter. Monastery was destroyed by Cultists and a valuable relic was stolen from it.~~
 
 ## Cantrips and Spells
 - Spare the Living (lvl 0) 
