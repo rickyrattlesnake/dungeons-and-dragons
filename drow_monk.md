@@ -7,7 +7,8 @@ Level: 3
 ---
 
 ## Attributes
-| -----------|--------------:|
+| Name | Value |
+|--|-:|
 | Hit Points | 23 / 23 |
 | Ki Points | 3 / 3 |
 | Armor Class | 16 | 
@@ -20,15 +21,10 @@ Level: 3
 |--|--:|--:|
 | Strength | 14 | +2 |
 | Dexterity | 18 | +4 |
-    Constitution: 14 (2)
-    Intelligence: 10 (0)
-    Wisdom: 15 (2)
-    Charisma: 10 (0)
-
-Languages:
-- Common
-- Undercommon
-- Elven
+| Constitution | 14 | +2 |
+| Intelligence | 10 | 0 |
+| Wisdom | 15 | +2 |
+| Charisma | 10 | 0 |
 
 ## Inventory [ 30 / 30]
 ### Money: 
@@ -49,6 +45,10 @@ Languages:
 
 ## Cantrips and Spells
 - Spare the Living (lvl 0) 
+- Burning Hands 
+    - uses 2 KI
+    - 15ft cone 
+    - 3d6 damage, dexterity saving throw ( successful save causes 1/2 the damage ) 
 - Darkness (lvl 5)
     + 15 ft radius
     + twice a day
@@ -72,7 +72,8 @@ Languages:
     + Magical Resistance
         + Advantage on Charm saves
         + Cannot induce sleep
-    + Can save against Range Attacks to allies and self with perception check
+    + Deflect Missiles:
+        + Can save against Range Attacks to allies and self with perception check
         + 10ft
         + invoked as reaction when attacked
     + Enemy does not gain advantage on physical attacks
@@ -86,3 +87,8 @@ Languages:
     + Martial Arts
     + Ki
     + Unarmoured Movement
+
+## Languages
+- Common
+- Undercommon
+- Elven
