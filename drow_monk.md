@@ -57,10 +57,10 @@
 
 ## Abilities and Features
 - **Trance**
-    -Sleep for only 4hrs instead of 8hrs
+    + Sleep for only 4hrs instead of 8hrs
 - **Magical Resistance**
-    -Advantage on Charm saves
--- Cannot induce sleep
+    + Advantage on Charm saves
+    + Cannot induce sleep
 - **Blind** (Character Trait)
         + **He has no eyes, and yet he sees.**
             - Automatically fail all vision-only perception checks
