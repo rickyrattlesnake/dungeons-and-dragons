@@ -37,7 +37,11 @@
 ### Items:
     - Potion of Healing 1d6 (x4)
     - Cultist Clothing
-    - 
+    - 10 Days Rations, Mess Kit, WaterSkin, Backpack
+    - Tinderbox, 10x Torches
+    - 10x pitons, Hammer
+    - Bedroll
+    - 50' Rope
 
 ## Backstory
 ~~Once a follower of Laviatar. Blinded in combat and lost social status and outcast from drow society. Prejudice against other drow and their social structures. Generally hated by commoners (when they see him as a drow). He is usually cloaked. Joined the monastery of Illmayter. Monastery was destroyed by Cultists and a valuable relic was stolen from it.~~
@@ -53,9 +57,9 @@
 
 ## Abilities and Features
 - **Trance**
--- Sleep for only 4hrs instead of 8hrs
+    -Sleep for only 4hrs instead of 8hrs
 - **Magical Resistance**
--- Advantage on Charm saves
+    -Advantage on Charm saves
 -- Cannot induce sleep
 - **Blind** (Character Trait)
         + **He has no eyes, and yet he sees.**
