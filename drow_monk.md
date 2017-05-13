@@ -88,10 +88,7 @@
     - (lvl 9) gain the ability to move along vertical surfaces and across liquids on Your Turn without Falling during the move.
 
 ## Cantrips and Spells
-- Spare the Living (lvl 0) 
-- Darkness (lvl 5)
-    + 15 ft radius
-    + twice a day
+- Spare the Living (lvl 0)
 - Faire Fire (lvl 3)
     + Trained to emit light and Ki
     + 20ft cube
