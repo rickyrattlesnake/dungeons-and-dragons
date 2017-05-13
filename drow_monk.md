@@ -12,7 +12,7 @@
 | Ki Points | 3 / 3 |
 | Armor Class | 16 | 
 | Initiative | +4 |
-| Speed | 50ft |
+| Speed | 40ft |
 | Proficiency | +2 |
 ---
 ## Ability Scores 
