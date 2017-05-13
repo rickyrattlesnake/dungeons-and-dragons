@@ -22,7 +22,7 @@
 | Dexterity | 18 | +4 |
 | Constitution | 14 | +2 |
 | Intelligence | 10 | 0 |
-| Wisdom | 16 | +3 |
+| Wisdom | 15 | +2 |
 | Charisma | 10 | 0 |
 
 ## Inventory [ 30 / 30]
@@ -65,7 +65,6 @@
     + **He has no eyes**
         + Automatically fail all vision-only perception checks
     + **Observant Feat** (Once at lvl 3):
-        + Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
         + +5 bonus perception and investigation
     + **Forced Concentration**
         - MUST concentrate to "perceive the environment" before Attacking, Running, Readying, Reacting.
