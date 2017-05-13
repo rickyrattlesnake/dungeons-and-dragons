@@ -42,20 +42,6 @@
 ## Backstory
 ~~Once a follower of Laviatar. Blinded in combat and lost social status and outcast from drow society. Prejudice against other drow and their social structures. Generally hated by commoners (when they see him as a drow). He is usually cloaked. Joined the monastery of Illmayter. Monastery was destroyed by Cultists and a valuable relic was stolen from it.~~
 
-## Cantrips and Spells
-- Spare the Living (lvl 0) 
-- Burning Hands 
-    - uses 2 KI
-    - 15ft cone 
-    - 3d6 damage, dexterity saving throw ( successful save causes 1/2 the damage ) 
-- Darkness (lvl 5)
-    + 15 ft radius
-    + twice a day
-- Faire Fire (lvl 3)
-    + Trained to emit light and Ki
-    + 20ft cube
-    + once a day
-
 ## Proficiencies:
     - Simple weapons
     - Short swords
@@ -66,12 +52,12 @@
     - Insight
 
 ## Abilities and Features
-    + **Trance**
-        + Sleep for only 4hrs instead of 8hrs
-    + **Magical Resistance**
-        + Advantage on Charm saves
-        + Cannot induce sleep
-    + Blind (Character Trait)
+- **Trance**
+-- Sleep for only 4hrs instead of 8hrs
+- **Magical Resistance**
+-- Advantage on Charm saves
+-- Cannot induce sleep
+- **Blind** (Character Trait)
         + **He has no eyes, and yet he sees.**
             - Automatically fail all vision-only perception checks
             - **Observant Feat** (Once at lvl 3):
@@ -103,12 +89,24 @@
         - (lvl 2) speed increases +10ft when not wearing armor or wielding a Shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.
         - (lvl 9) gain the ability to move along vertical surfaces and across liquids on Your Turn without Falling during the move.
 
+## Cantrips and Spells
+- Spare the Living (lvl 0) 
+- Darkness (lvl 5)
+    + 15 ft radius
+    + twice a day
+- Faire Fire (lvl 3)
+    + Trained to emit light and Ki
+    + 20ft cube
+    + once a day
+
 ## Monk Abilities ##
 | Ability | Description |
 |--|--|
 | Flurry of Blows | 1 KI. Bonus Action to make two unarmed strikes |
 | Patient Defense | 1 KI. Bonus Action to dodge |
 | Step of the Wind | 1 KI. Bonus Action to disengage or dash. double jump distance |
+| Elemental Attunement | Can manipulate the elements to a small effect. no direct damage |
+| Burning Hands | 2 KI. 15ft cone of fire. 3d6 damage, dexterity saving throw ( successful save causes 1/2 the damage ) |
 
 
 
