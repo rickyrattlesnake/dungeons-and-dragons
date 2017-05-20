@@ -27,21 +27,30 @@
 
 ## Inventory [ 30 / 30]
 ### Money: 
-    - 150Gold 
+    - 150 Gold 
 ### Weapons:
     - Hands 1d4 (bludgeon)
+    - short sword 1d6
     - Heavy Crossbow 1d10 (pierce), [18]
     - Darts 1d4 (pierce) (x10) [2]
+    - Shiny Dagger 1d4
+### Equipment:
+    - Elven Cloak (+4 Stealth)
+    - Stone of Luck (+1 Ability)
+    - Puoch of Dust
+    - Bracers of Heavenly Way
 ### Tools:
     - Herbalism Kit [3]
 ### Items:
-    - Potion of Healing 1d6 (x4)
+    - Potion of Healing 1d10 + 4 (x3)
+    - Potion of Healing 1d8 + 2 (x1)    
     - Cultist Clothing
     - 10 Days Rations, Mess Kit, WaterSkin, Backpack
     - Tinderbox, 10x Torches
     - 10x pitons, Hammer
     - Bedroll
     - 50' Rope
+    - 
 
 ## Backstory
 ~~Once a follower of Laviatar. Blinded in combat and lost social status and outcast from drow society. Prejudice against other drow and their social structures. Generally hated by commoners (when they see him as a drow). He is usually cloaked. Joined the monastery of Illmayter. Monastery was destroyed by Cultists and a valuable relic was stolen from it.~~
