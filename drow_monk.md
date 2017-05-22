@@ -2,28 +2,50 @@
 ### Race: Dark Elf
 ### Class: Monk
 --- 
-### Experience Points: 2000
-### Level: 3
+### Experience Points: 3150
+### Level: 4
 ---
 ## Attributes
 | Name | Value |
 |--|-:|
-| Hit Points | 23 / 23 |
-| Ki Points | 3 / 3 |
+| Hit Points | 24 / 24 |
+| Ki Points | 4 / 4 |
 | Armor Class | 16 | 
 | Initiative | +4 |
-| Speed | 40ft |
+| Speed | 30ft |
 | Proficiency | +2 |
 ---
 ## Ability Scores 
 | Name | Value | Modifier |
 |--|--:|--:|
 | Strength | 14 | +2 |
-| Dexterity | 18 | +4 |
+| Dexterity | 20 | +5 |
 | Constitution | 14 | +2 |
 | Intelligence | 10 | 0 |
 | Wisdom | 15 | +2 |
 | Charisma | 10 | 0 |
+---
+## Skills
+| Name | Ability | Ability Modifier | Total Modifier |
+|--|--:|--:|--:|
+| Athletics | Strength | +2 | +3 |
+| Acrobatics | Dexterity | +5 | +6 |
+| Sleight of Hand | Dexterity | +5 | +6 |
+| **Stealth** | Dexterity | +5 | +12 |
+| Arcana | Intelligence | +0 | +1 |
+| History | Intelligence | +0 | +1 |
+| Investigation | Intelligence | +0 | +6 |
+| Nature | Intelligence | +0 | +1 |
+| Religion | Intelligence | +0 | +1 |
+| Animal Handling | Wisdom| +2 | +3 |
+| **Insight** | Wisdom| +2 | +5 |
+| **Medicine** | Wisdom| +2 | +5 |
+| **Perception** | Wisdom| +2 | +10 |
+| Survival | Wisdom| +2 | +3 |
+| Deception | Charisma | +0 | +1 |
+| Intimidation | Charisma | +0 | +1 |
+| Performance | Charisma | +0 | +1 |
+| Persuasion | Charisma | +0 | +1 |
 
 ## Inventory [ 30 / 30]
 ### Money: 
@@ -37,8 +59,8 @@
 ### Equipment:
     - Elven Cloak (+4 Stealth)
     - Stone of Luck (+1 Ability)
-    - Puoch of Dust
-    - Bracers of Heavenly Way
+    - Pouch of Dust
+    - Bracers of Heavenly Way (??)
 ### Tools:
     - Herbalism Kit [3]
 ### Items:
@@ -104,15 +126,20 @@
     + once a day
 
 ## Monk Abilities ##
+### Equipped Abilities
 | Ability | Description |
 |--|--|
 | Flurry of Blows | 1 KI. Bonus Action to make two unarmed strikes |
 | Patient Defense | 1 KI. Bonus Action to dodge |
 | Step of the Wind | 1 KI. Bonus Action to disengage or dash. double jump distance |
 | Elemental Attunement | Can manipulate the elements to a small effect. no direct damage |
-| Burning Hands | 2 KI. 15ft cone of fire. 3d6 damage, dexterity saving throw ( successful save causes 1/2 the damage ) |
+| Sweeping Cinder Strike | [Burning Hands] 2 KI. 15ft cone of fire. 3d6 damage, dexterity saving throw ( successful save causes 1/2 the damage ) |
+| Slow Fall | Reaction reduce any falling damage by 5x Monk Level |
 
-
+### Available Abilities
+| Ability | Description |
+|--|--|
+| Water Whip | 2 KI. Bonus Action. 30 feet single. 3d10 damage + 1d10 for addition 1KI spent. Pull prone or 25ft closer. Dexerity saving throw, half damage no pull.
 
 ## Languages
 - Common
