@@ -61,7 +61,7 @@
 ### Equipment:
 - Elven Cloak (+4 Stealth)
 - Stone of Luck (+1 Ability)
-- Pouch of Dust
+- Dust of Invisibility (x2)
 - Bracers of Heavenly Way
     + +1 unarmed strike damage (on-hand and off-hand)
     + +2 Armor Class
