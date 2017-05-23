@@ -124,6 +124,11 @@
 | Ability | Description |
 |--|--|
 | Water Whip | 2 KI. Bonus Action. 30 feet single. 3d10 damage + 1d10 for addition 1KI spent. Pull prone or 25ft closer. Dexerity saving throw, half damage no pull.
+| Shape the Flowing River | ... |
+| Fangs of the Fire Snake | ... |
+| Fists of Four Thunders | thunderwave |
+| Fist o f Unbroken Air | ... |
+| Rush o f the Gale Spirits | gust of wind |
 
 ## Languages
 - Common
