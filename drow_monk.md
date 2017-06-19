@@ -2,14 +2,14 @@
 ### Race: Dark Elf
 ### Class: Monk
 --- 
-### Experience Points: 3150
+### Experience Points: 5150
 ### Level: 4
 ---
 ## Attributes
 | Name | Value |
 |--|-:|
-| Hit Points | 19 / 31 |
-| Ki Points | 0 / 4 |
+| Hit Points | 31 / 31 |
+| Ki Points | 4 / 4 |
 | Armor Class | 19 | 
 | Initiative | +5 |
 | Speed | 40ft |
