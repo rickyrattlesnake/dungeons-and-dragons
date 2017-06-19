@@ -2,18 +2,18 @@
 ### Race: Dark Elf
 ### Class: Monk
 --- 
-### Experience Points: 5150
-### Level: 4
+### Experience Points: 6650
+### Level: 5
 ---
 ## Attributes
 | Name | Value |
 |--|-:|
-| Hit Points | 31 / 31 |
-| Ki Points | 4 / 4 |
+| Hit Points | 38 / 38 |
+| Ki Points | 5 / 5 |
 | Armor Class | 19 | 
 | Initiative | +5 |
 | Speed | 40ft |
-| Proficiency | +2 |
+| Proficiency | +3 |
 ---
 ## Ability Scores 
 | Name | Value | Modifier |
@@ -28,10 +28,10 @@
 ## Skills
 | Name | Ability | Ability Modifier | Total Modifier |
 |--|--:|--:|--:|
-| **Stealth** | Dexterity | +5 | +12 |
-| **Insight** | Wisdom| +2 | +5 |
-| **Medicine** | Wisdom| +2 | +5 |
-| **Perception** | Wisdom| +2 | +10 |
+| **Stealth** | Dexterity | +5 | +13 |
+| **Insight** | Wisdom| +2 | +6 |
+| **Medicine** | Wisdom| +2 | +6 |
+| **Perception** | Wisdom| +2 | +11 |
 | Athletics | Strength | +2 | +3 |
 | Acrobatics | Dexterity | +5 | +6 |
 | Sleight of Hand | Dexterity | +5 | +6 |
@@ -98,7 +98,8 @@
 | Observant Feat (Character Trait) | +5 bonus perception and investigation | 
 | Forced Concentration (Character Trait) | MUST concentrate to "perceive the environment" before Attacking, Running, Readying, Reacting. Done as a perception check. Bonus action at the first turn of combat and every 1 minute thereafter. After a failed concentration bonus roll. You can use a regular action to roll for concentration. | 
 | Spare the Living (lvl 0) | Can stabilise a creature with 0 HP. Touch. |
-| Faire Fire (lvl 3) | Trained to emit light and Ki. 20ft cube. Once a day |
+| Faire Fire | Trained to emit light and Ki. 20ft cube. Once a day |
+| Darkness | once a day |
 
 ## Monk Abilities ##
 ### Inate Abilities
