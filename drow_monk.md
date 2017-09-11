@@ -49,7 +49,7 @@
 
 ## Inventory [ 30 / 30]
 ### Money: 
-    - 150 Gold 
+    - 400 Gold 
 ### Weapons:
 - Hands 1d4 (bludgeon)
 - short sword 1d6
@@ -69,7 +69,9 @@
 ### Tools:
     - Herbalism Kit [3]
 ### Items:
-    - Potion of Healing 1d10 + 4 (x2)   
+- 10x Acid Potions
+- 5x Oil
+    - Potion of Healing 1d10 + 4 (x1)   
     - Cultist Clothing
     - 10 Days Rations, Mess Kit, WaterSkin, Backpack
     - Tinderbox, 10x Torches
