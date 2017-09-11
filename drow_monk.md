@@ -102,6 +102,7 @@
 | Faire Fire | Trained to emit light and Ki. 20ft cube. Once a day |
 | Darkness | once a day |
 
+
 ## Monk Abilities ##
 ### Inate Abilities
 | Ability | Description |
@@ -117,6 +118,7 @@
 | Ki | You must spend at least 30 minutes of the rest meditating to regain your ki points. Saving throws for KI attacks are DC = (8 + prof. + wis.) |
 | Unarmoured Movement | (lvl 2) speed increases +10ft refer to Monk table. (lvl 9) move on vertical surfaces and across liquids without falling. |
 | Extra Attack | Bonus action to attack. |
+| Enemy KI save | 8 + monk prof. + monk wisdom |
 
 ### Chosen Abilities
 | Ability | Description |
