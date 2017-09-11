@@ -117,7 +117,7 @@
 | Martial Arts | Use Dex. Modifier for attack and damage rolls. Roll 1d4 in place of the normal damage of your unarmed strike or monk weapon. When you use the Attack action with an unarmed strike or a monk weapon on Your Turn, you can make one unarmed strike as a Bonus Action. |
 | Ki | You must spend at least 30 minutes of the rest meditating to regain your ki points. Saving throws for KI attacks are DC = (8 + prof. + wis.) |
 | Unarmoured Movement | (lvl 2) speed increases +10ft refer to Monk table. (lvl 9) move on vertical surfaces and across liquids without falling. |
-| Extra Attack | Bonus action to attack. |
+| Extra Attack | You can attack twice, instead of once, whenever you take the Attack action on your turn. |
 | Enemy KI save | 8 + monk prof. + monk wisdom |
 
 ### Chosen Abilities
