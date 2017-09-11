@@ -2,7 +2,7 @@
 ### Race: Dark Elf
 ### Class: Monk
 --- 
-### Experience Points: 6650
+### Experience Points: 9150
 ### Level: 5
 ---
 ## Attributes
@@ -49,7 +49,7 @@
 
 ## Inventory [ 30 / 30]
 ### Money: 
-    - 400 Gold 
+- 410 Gold 
 ### Weapons:
 - Hands 1d4 (bludgeon)
 - short sword 1d6
@@ -61,23 +61,22 @@
 ### Equipment:
 - Elven Cloak (+4 Stealth)
 - Stone of Luck (+1 Ability)
-- Dust of Invisibility (x2)
 - Bracers of Heavenly Way
     + +1 unarmed strike damage (on-hand and off-hand)
     + +2 Armor Class
-- Gold Dragon Egg
 ### Tools:
     - Herbalism Kit [3]
 ### Items:
 - 10x Acid Potions
 - 5x Oil
-    - Potion of Healing 1d10 + 4 (x1)   
-    - Cultist Clothing
-    - 10 Days Rations, Mess Kit, WaterSkin, Backpack
-    - Tinderbox, 10x Torches
-    - 10x pitons, Hammer
-    - Bedroll
-    - 50' Rope
+- Dust of Invisibility (x2)
+- Potion of Healing 1d10 + 4 (x1)
+- Potion of Healing 1d6 + 1 (×5)
+- Cultist Clothing
+- Tinderbox, 10x Torches
+- 10x pitons, Hammer
+- Bedroll
+- 50' Rope
 
 ## Backstory
 ~~Once a follower of Laviatar. Blinded in combat and lost social status and outcast from drow society. Prejudice against other drow and their social structures. Generally hated by commoners (when they see him as a drow). He is usually cloaked. Joined the monastery of Illmayter. Monastery was destroyed by Cultists and a valuable relic was stolen from it.~~
@@ -110,12 +109,14 @@
 | Flurry of Blows | 1 KI. Bonus Action to make two unarmed strikes |
 | Patient Defense | 1 KI. Bonus Action to dodge |
 | Step of the Wind | 1 KI. Bonus Action to disengage or dash. double jump distance |
+| Stunning Strike | 1KI. Bonus Action to stun enemy. Constituion save |
 | Slow Fall | Reaction reduce any falling damage by 5x Monk Level |
 | Deflect Missles | Reduce range attack damage (1d10 + dex + lvl). If damage reduce to 0, can spend 1KI. to use projectile as monk weapon. |
 | Unarmored Defence | No armor or shiled. Your AC = (10 + dex + wis) |
 | Martial Arts | Use Dex. Modifier for attack and damage rolls. Roll 1d4 in place of the normal damage of your unarmed strike or monk weapon. When you use the Attack action with an unarmed strike or a monk weapon on Your Turn, you can make one unarmed strike as a Bonus Action. |
 | Ki | You must spend at least 30 minutes of the rest meditating to regain your ki points. Saving throws for KI attacks are DC = (8 + prof. + wis.) |
 | Unarmoured Movement | (lvl 2) speed increases +10ft refer to Monk table. (lvl 9) move on vertical surfaces and across liquids without falling. |
+| Extra Attack | Bonus action to attack. |
 
 ### Chosen Abilities
 | Ability | Description |
@@ -130,8 +131,8 @@
 | Shape the Flowing River | ... |
 | Fangs of the Fire Snake | ... |
 | Fists of Four Thunders | thunderwave |
-| Fist o f Unbroken Air | ... |
-| Rush o f the Gale Spirits | gust of wind |
+| Fist of Unbroken Air | ... |
+| Rush of the Gale Spirits | gust of wind |
 
 ## Languages
 - Common
