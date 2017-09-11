@@ -51,7 +51,7 @@
 ### Money: 
 - 410 Gold 
 ### Weapons:
-- Hands 1d4 (bludgeon)
+- Hands 1d6 (bludgeon)
 - short sword 1d6
 - Heavy Crossbow 1d10 (pierce), [18]
 - Darts 1d4 (pierce) (x10) [2]
