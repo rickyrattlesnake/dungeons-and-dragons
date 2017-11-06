@@ -163,7 +163,7 @@
 
 ### Spell Descriptions
 | Name | Effect | Higher Levels |
-|:--|:--|:==|
+|:--|:--|:--|
 | Burning Hands | 3d6 fire damage, 15ft cone, DEX saving throw - 1/2 damage on success | + 1d6 damage for each level |
 | Gust of Wind | 60ft line, 10ft wide, concentration 1min, twice movement cost inside gust, extinguish flames, bonus action can change direction of gust, strength save [Fail: creature pushed 15ft away ] | null |
 
