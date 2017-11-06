@@ -28,8 +28,9 @@
 ### Chosen Abilities
 | Ability | Description |
 |--|--|
-| Elemental Attunement | Can manipulate the elements to a small effect. no direct damage |
-| Sweeping Cinder Strike | [Burning Hands] 2 KI. 15ft cone of fire. 3d6 damage, dexterity saving throw ( successful save causes 1/2 the damage ) |
+| Gong of the Summit | 3KI, Shatter |
+| Sweeping Cinder Strike | 2KI Burning Hands |
+| Water Whip | 2KI ... |
 
 ## Class / Item Effects
 + No surprise within 30ft.
@@ -164,8 +165,11 @@
 ### Spell Descriptions
 | Name | Effect | Higher Levels |
 |:--|:--|:--|
-| Burning Hands | 3d6 fire damage, 15ft cone, DEX saving throw - 1/2 damage on success | + 1d6 damage for each level |
-| Gust of Wind | 60ft line, 10ft wide, concentration 1min, twice movement cost inside gust, extinguish flames, bonus action can change direction of gust, strength save [Fail: creature pushed 15ft away ] | null |
+| Burning Hands | 3d6 fire damage, 15ft cone, DEX saving throw - 1/2 damage on success | + 1d6 damage per level |
+| Gust of Wind | 60ft line, 10ft wide, concentration 1min, twice movement cost inside gust, extinguish flames, bonus action can change direction of gust, creature starting turn in gust strength save [Fail: pushed 15ft away ] | null |
+| Hold Person | 60ft range, concentration 1min. humanoid. each turn Wisdom save [fail: paralyzed, success: spell ends] | +1 additional humanoid within 30ft of each other |
+| ThunderWave | 15ft cube. Constitution save [fail: 2d8 thunder damage, pushed 10ft, success: half damage not pushed], audible sound, items pushed | +1d8 per level |
+| Shatter | 60ft range, 10ft radius sphere effect, Constitution save [fail: 3d8 thunder dmg , success: half dmg ]. creature made of inorganic material has disadv. on save | +1d8 per level |
 
 ## Languages
 - Common
