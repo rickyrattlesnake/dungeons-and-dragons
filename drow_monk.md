@@ -6,17 +6,33 @@
 ### Level: 6
 ---
 
-## Attributes
+## Important Attributes
 | Name | Value |
 |--|-:|
 | Hit Points | 42 / 42 |
 | Ki Points | 6 / 6 |
 | Armor Class | 19 | 
 | Initiative | +5 |
-| Speed | 40ft |
+| Speed | 45ft |
 | Proficiency | +3 |
 | Attack Mod. | +9 |
 | Damage Mod. | +6 on-hand, +1 off-hand|
+
+## Other Important Attributes
+| Name | Value |
+|--|-:|
+| Hit Die | 1d8, 5/5 |
+| Maximum Ki Points for a Spell | 3 |
+| | |
+
+## Class / Item Effects
++ No surprise within 30ft.
++ Advantage on Initiative
++ Deflect Missles: Reduce range attack damage (1d10 + dex + lvl)
++ Magical Resistance: Advantage on Charm saves. Cannot induce sleep 
++ Spare the Living: Can stabilise a creature with 0 HP. Touch.
++ Faire Fire: 20ft cube. Once a day.
++ Darkness: once a day.
 
 ---
 ## Ability Scores 
@@ -122,7 +138,9 @@
 | Ki | You must spend at least 30 minutes of the rest meditating to regain your ki points. Saving throws for KI attacks are DC = (8 + prof. + wis.) |
 | Unarmoured Movement | (lvl 2) speed increases +10ft refer to Monk table. (lvl 9) move on vertical surfaces and across liquids without falling. |
 | Extra Attack | You can attack twice, instead of once, whenever you take the Attack action on your turn. |
+| Ki-Empowered Strikes | Unarmed strikes count as magical when overcoming resistances |
 | Enemy KI save | 8 + monk prof. + monk wisdom |
+
 
 ### Chosen Abilities
 | Ability | Description |
@@ -133,12 +151,15 @@
 ### Available Abilities
 | Ability | Description |
 |--|--|
-| Water Whip | 2 KI. Bonus Action. 30 feet single. 3d10 damage + 1d10 for addition 1KI spent. Pull prone or 25ft closer. Dexerity saving throw, half damage no pull.
-| Shape the Flowing River | ... |
-| Fangs of the Fire Snake | ... |
-| Fists of Four Thunders | thunderwave |
-| Fist of Unbroken Air | ... |
-| Rush of the Gale Spirits | gust of wind |
+| Sweeping Cinder Strike | 2KI, burning hands |
+| Water Whip | 2 KI. Bonus Action. 30 feet single. 3d10 damage + (1d10 x 1KI spent). Pull prone or 25ft closer. Dexerity saving throw, half damage no pull. |
+| Shape the Flowing River | 1 KI, action, move and reshape ice or water within 120ft. no damage. |
+| Fangs of the Fire Snake | 1KI, unarmed range 10 feet for turn. fire damage on hit. on hit spend 1KI extra 1d10 fire damage |
+| Fists of Four Thunders | 2KI thunderwave |
+| Fist of Unbroken Air | 2KI action, one creature, 30ft, Strength saving throw. Fail: 3d10 bludgeoning + (1d10 x 1KI spent), push 20ft prone. Success: half as much damage, no other effects |
+| Rush of the Gale Spirits | 2KI, gust of wind |
+| Gong of the Summit | 3KI, shatter | 
+| Clench of the North Wind | hold person, 3ki |
 
 ## Languages
 - Common
