@@ -23,7 +23,7 @@
 |--|-:|
 | Hit Die | 1d8, 5/5 |
 | Maximum Ki Points for a Spell | 3 |
-| | |
+| Saving Throw DC | 13 |
 
 ### Chosen Abilities
 | Ability | Description |
@@ -146,7 +146,7 @@
 | Unarmoured Movement | (lvl 2) speed increases +10ft refer to Monk table. (lvl 9) move on vertical surfaces and across liquids without falling. |
 | Extra Attack | You can attack twice, instead of once, whenever you take the Attack action on your turn. |
 | Ki-Empowered Strikes | Unarmed strikes count as magical when overcoming resistances |
-| Enemy KI save | 8 + monk prof. + monk wisdom |
+| Enemy KI save | 8 + proficiency + wisdom mod. |
 
 
 ### Available Abilities
@@ -170,6 +170,8 @@
 | Hold Person | 60ft range, concentration 1min. humanoid. each turn Wisdom save [fail: paralyzed, success: spell ends] | +1 additional humanoid within 30ft of each other |
 | ThunderWave | 15ft cube. Constitution save [fail: 2d8 thunder damage, pushed 10ft, success: half damage not pushed], audible sound, items pushed | +1d8 per level |
 | Shatter | 60ft range, 10ft radius sphere effect, Constitution save [fail: 3d8 thunder dmg , success: half dmg ]. creature made of inorganic material has disadv. on save | +1d8 per level |
+| Darkness | 60ft range, concentration 10min. 15ft sphere. negates darkvision, negates nonmagical light, moves with targetted object. dispells a spell that creates light that overlaps the AOE| null |
+| Faire Fire | 60ft range, 20ft cube. Concentration 1min. creature outlined. Dexterity save [fail: negates invisible. adv on attack rolls against creature, success: no effect] | null |
 
 ## Languages
 - Common
