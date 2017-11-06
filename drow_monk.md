@@ -25,6 +25,12 @@
 | Maximum Ki Points for a Spell | 3 |
 | | |
 
+### Chosen Abilities
+| Ability | Description |
+|--|--|
+| Elemental Attunement | Can manipulate the elements to a small effect. no direct damage |
+| Sweeping Cinder Strike | [Burning Hands] 2 KI. 15ft cone of fire. 3d6 damage, dexterity saving throw ( successful save causes 1/2 the damage ) |
+
 ## Class / Item Effects
 + No surprise within 30ft.
 + Advantage on Initiative
@@ -142,12 +148,6 @@
 | Enemy KI save | 8 + monk prof. + monk wisdom |
 
 
-### Chosen Abilities
-| Ability | Description |
-|--|--|
-| Elemental Attunement | Can manipulate the elements to a small effect. no direct damage |
-| Sweeping Cinder Strike | [Burning Hands] 2 KI. 15ft cone of fire. 3d6 damage, dexterity saving throw ( successful save causes 1/2 the damage ) |
-
 ### Available Abilities
 | Ability | Description |
 |--|--|
@@ -160,6 +160,12 @@
 | Rush of the Gale Spirits | 2KI, gust of wind |
 | Gong of the Summit | 3KI, shatter | 
 | Clench of the North Wind | hold person, 3ki |
+
+### Spell Descriptions
+| Name | Effect | Higher Levels |
+|:--|:--|:==|
+| Burning Hands | 3d6 fire damage, 15ft cone, DEX saving throw - 1/2 damage on success | + 1d6 damage for each level |
+| Gust of Wind | 60ft line, 10ft wide, concentration 1min, twice movement cost inside gust, extinguish flames, bonus action can change direction of gust, strength save [Fail: creature pushed 15ft away ] | null |
 
 ## Languages
 - Common
