@@ -2,18 +2,22 @@
 ### Race: Dark Elf
 ### Class: Monk
 --- 
-### Experience Points: 9150
-### Level: 5
+### Experience Points: ???? - lvl 6 base
+### Level: 6
 ---
+
 ## Attributes
 | Name | Value |
 |--|-:|
-| Hit Points | 38 / 38 |
-| Ki Points | 5 / 5 |
+| Hit Points | 42 / 42 |
+| Ki Points | 6 / 6 |
 | Armor Class | 19 | 
 | Initiative | +5 |
 | Speed | 40ft |
 | Proficiency | +3 |
+| Attack Mod. | +9 |
+| Damage Mod. | +6 on-hand, +1 off-hand|
+
 ---
 ## Ability Scores 
 | Name | Value | Modifier |
@@ -24,6 +28,7 @@
 | Intelligence | 10 | 0 |
 | Wisdom | 15 | +2 |
 | Charisma | 10 | 0 |
+
 ---
 ## Skills
 | Name | Ability | Ability Modifier | Total Modifier |
@@ -47,14 +52,12 @@
 | Performance | Charisma | +0 | +1 |
 | Persuasion | Charisma | +0 | +1 |
 
-## Inventory [ 30 / 30]
-### Money: 
-- 410 Gold 
+## Inventory
+### Money:
+- 530 Gold 
 ### Weapons:
-- Hands 1d6 (bludgeon)
-- short sword 1d6
-- Heavy Crossbow 1d10 (pierce), [18]
-- Darts 1d4 (pierce) (x10) [2]
+- _**Hands 1d6**_
+- Heavy Crossbow 1d10 (pierce)
 - Dagger of Warning 1d4
     + no surprise within 30ft.
     + Advantage on Initiative
@@ -62,15 +65,16 @@
 - Elven Cloak (+4 Stealth)
 - Stone of Luck (+1 Ability)
 - Bracers of Heavenly Way
-    + +1 unarmed strike damage (on-hand and off-hand)
+    + +1 unarmed damage
+    + +1 unarmed attack
     + +2 Armor Class
 ### Tools:
     - Herbalism Kit [3]
 ### Items:
-- 10x Acid Potions
+- 9x Acid
 - 5x Oil
 - Dust of Invisibility (x2)
-- Potion of Healing 1d10 + 4 (x1)
+- Potion of Healing 1d10 + 4 (x3)
 - Potion of Healing 1d6 + 1 (×5)
 - Cultist Clothing
 - Tinderbox, 10x Torches
