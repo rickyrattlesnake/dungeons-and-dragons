@@ -159,7 +159,7 @@
 
 ### Spell Descriptions
 | Name | Effect |
-|:--|:--|:--|
+|:--|:--|
 | Silence | 120ft range. concentration 10min. 20ft. sphere no sound pass through or from within. deafened, immune to thunder, verbal spell is impossible. |
 | Pass without trace | self. concentration 1hr. 30ft sphere, chosen creatures, +10 stealth checks and can’t be tracked except by magical means, leaves behind no traces of its passage. |
 | Dark Vision | touch. 8hrs. grants darkvision 60ft. |
@@ -168,6 +168,7 @@
 | Faire Fire | 60ft range, 20ft cube. Concentration 1min. creature outlined. Dexterity save [fail: negates invisible. adv on attack rolls against creature, success: no effect] |
 | Dancing Lights | 120ft range. concentration 1min. 4 glowing orbs within 20ft, can shape, sheds dim-light 30ft. | 
 | Spare the Dying | touch. 0hp creature becomes stable. no effect on undead or constructs. |
+
 
 | Name | Effect | Higher Levels |
 |:--|:--|:--|
