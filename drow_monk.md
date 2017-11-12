@@ -1,11 +1,5 @@
-### Name: Kaladrin Deani
-### Race: Dark Elf
-### Class: Monk
---- 
-### Experience Points: ???? - lvl 6 base
-### Level: 6
+### Name: Kaladrin Deani | Race: Dark Elf | Class: Monk | Experience Points: ?? | Level: 6
 ---
-
 ## Important Attributes
 | Name | Value |
 |--|-:|
@@ -17,29 +11,24 @@
 | Proficiency | +3 |
 | Attack Mod. | +9 |
 | Damage Mod. | +6 on-hand, +1 off-hand|
-
-## Other Important Attributes
-| Name | Value |
-|--|-:|
 | Hit Die | 1d8, 5/5 |
 | Maximum Ki Points for a Spell | 3 |
 | Saving Throw DC | 13 |
 
-### Chosen Abilities
-| Ability | Description |
-|--|--|
-| Gong of the Summit | 3KI, Shatter |
-| Sweeping Cinder Strike | 2KI Burning Hands |
-| Water Whip | 2KI ... |
+### Class & Race Abilities
++ 2KI cast: Silence, Pass without trace, Dark Vision, Darkness
++ Cantrip: Minor Illusion, Spare the Living, Dancing Lights
++ Once a Day: Faire Fire, Darkness
 
-## Class / Item Effects
+## Race & Character & Item Effects
 + No surprise within 30ft.
-+ Advantage on Initiative
++ Advantage on Initiative.
++ Blind: fail visual-only perception saves.
++ Observant: +5 bonus Perception and Investigation.
 + Deflect Missles: Reduce range attack damage (1d10 + dex + lvl)
 + Magical Resistance: Advantage on Charm saves. Cannot induce sleep 
-+ Spare the Living: Can stabilise a creature with 0 HP. Touch.
-+ Faire Fire: 20ft cube. Once a day.
-+ Darkness: once a day.
++ Spare the Dying: Can stabilise a creature with 0 HP. Touch.
+
 
 ---
 ## Ability Scores 
@@ -92,11 +81,11 @@
     + +1 unarmed attack
     + +2 Armor Class
 ### Tools:
-    - Herbalism Kit [3]
+- Herbalism Kit
 ### Items:
 - 9x Acid
 - 5x Oil
-- Dust of Invisibility (x2)
+- Dust of Invisibility (x2) [10ft. sphere. Invisible for 2d4 minutes. Invisibility ends if creature attacks.]
 - Potion of Healing 1d10 + 4 (x3)
 - Potion of Healing 1d6 + 1 (×5)
 - Cultist Clothing
@@ -109,13 +98,13 @@
 ~~Once a follower of Laviatar. Blinded in combat and lost social status and outcast from drow society. Prejudice against other drow and their social structures. Generally hated by commoners (when they see him as a drow). He is usually cloaked. Joined the monastery of Illmayter. Monastery was destroyed by Cultists and a valuable relic was stolen from it.~~
 
 ## Proficiencies:
-    - Simple weapons
-    - Short swords
-    - Hand Crossbow
-    - Perception
-    - Medicine
-    - Stealth
-    - Insight
+- Simple weapons
+- Short swords
+- Hand Crossbow
+- Perception
+- Medicine
+- Stealth
+- Insight
 
 ## Race and Character Features
 | Ability | Description |
@@ -126,8 +115,8 @@
 | Observant Feat (Character Trait) | +5 bonus perception and investigation | 
 | Forced Concentration (Character Trait) | MUST concentrate to "perceive the environment" before Attacking, Running, Readying, Reacting. Done as a perception check. Bonus action at the first turn of combat and every 1 minute thereafter. After a failed concentration bonus roll. You can use a regular action to roll for concentration. | 
 | Spare the Living (lvl 0) | Can stabilise a creature with 0 HP. Touch. |
-| Faire Fire | Trained to emit light and Ki. 20ft cube. Once a day |
-| Darkness | once a day |
+| Faire Fire | Once a day |
+| Darkness | Once a day |
 
 
 ## Monk Abilities ##
@@ -149,7 +138,13 @@
 | Enemy KI save | 8 + proficiency + wisdom mod. |
 
 
-### Available Abilities
+### Available Monk Abilities (Way of Shadow)
+| Ability | Description |
+|--|--|
+| Shadow Arts | Cast Minor Illusion as cantrip. Cast Darkness, Dark Vision, Pass without trace, Silence using 2KI. |
+| Shadow Step | In dim light/darkness, use bonus action to teleport 60ft. to empty space in dim light/darkness. Adv. on first melee attack on that turn | 
+
+---- (Way of Elements) ----
 | Ability | Description |
 |--|--|
 | Sweeping Cinder Strike | 2KI, burning hands |
@@ -163,6 +158,17 @@
 | Clench of the North Wind | hold person, 3ki |
 
 ### Spell Descriptions
+| Name | Effect |
+|:--|:--|:--|
+| Silence | 120ft range. concentration 10min. 20ft. sphere no sound pass through or from within. deafened, immune to thunder, verbal spell is impossible. |
+| Pass without trace | self. concentration 1hr. 30ft sphere, chosen creatures, +10 stealth checks and can’t be tracked except by magical means, leaves behind no traces of its passage. |
+| Dark Vision | touch. 8hrs. grants darkvision 60ft. |
+| Minor Illusion | 30ft range. 1min. create sound or image of an object. max size 5ft. max volume scream. |
+| Darkness | 60ft range, concentration 10min. 15ft sphere. negates darkvision, negates nonmagical light, moves with targetted object. dispells a spell that creates light that overlaps the AOE|
+| Faire Fire | 60ft range, 20ft cube. Concentration 1min. creature outlined. Dexterity save [fail: negates invisible. adv on attack rolls against creature, success: no effect] |
+| Dancing Lights | 120ft range. concentration 1min. 4 glowing orbs within 20ft, can shape, sheds dim-light 30ft. | 
+| Spare the Dying | touch. 0hp creature becomes stable. no effect on undead or constructs. |
+
 | Name | Effect | Higher Levels |
 |:--|:--|:--|
 | Burning Hands | 3d6 fire damage, 15ft cone, DEX saving throw - 1/2 damage on success | + 1d6 damage per level |
@@ -170,8 +176,7 @@
 | Hold Person | 60ft range, concentration 1min. humanoid. each turn Wisdom save [fail: paralyzed, success: spell ends] | +1 additional humanoid within 30ft of each other |
 | ThunderWave | 15ft cube. Constitution save [fail: 2d8 thunder damage, pushed 10ft, success: half damage not pushed], audible sound, items pushed | +1d8 per level |
 | Shatter | 60ft range, 10ft radius sphere effect, Constitution save [fail: 3d8 thunder dmg , success: half dmg ]. creature made of inorganic material has disadv. on save | +1d8 per level |
-| Darkness | 60ft range, concentration 10min. 15ft sphere. negates darkvision, negates nonmagical light, moves with targetted object. dispells a spell that creates light that overlaps the AOE| null |
-| Faire Fire | 60ft range, 20ft cube. Concentration 1min. creature outlined. Dexterity save [fail: negates invisible. adv on attack rolls against creature, success: no effect] | null |
+
 
 ## Languages
 - Common
