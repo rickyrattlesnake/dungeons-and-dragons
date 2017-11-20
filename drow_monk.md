@@ -3,7 +3,7 @@
 ## Important Attributes
 | Name | Value |
 |--|-:|
-| Hit Points | 42 / 42 |
+| Hit Points | 27 / 42 |
 | Ki Points | 6 / 6 |
 | Armor Class | 19 | 
 | Initiative | +5 |
@@ -66,7 +66,7 @@
 
 ## Inventory
 ### Money:
-- 530 Gold 
+- 730 Gold 
 ### Weapons:
 - _**Hands 1d6**_
 - Heavy Crossbow 1d10 (pierce)
@@ -86,8 +86,9 @@
 - 9x Acid
 - 5x Oil
 - Dust of Invisibility (x2) [10ft. sphere. Invisible for 2d4 minutes. Invisibility ends if creature attacks.]
-- Potion of Healing 1d10 + 4 (x3)
-- Potion of Healing 1d6 + 1 (×5)
+- Healing 1d10 + 4 (x3)
+- Healing 1d8 + 2 x2
+- Healing 1d6 + 1 (×5)
 - Cultist Clothing
 - Tinderbox, 10x Torches
 - 10x pitons, Hammer
