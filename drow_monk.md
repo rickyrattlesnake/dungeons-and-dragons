@@ -1,104 +1,134 @@
-### Name: Kaladrin Deani | Race: Dark Elf | Class: Monk | Experience Points: ?? | Level: 6
+## Current - Summary
+<table>
+<tr><th>Stats</th><th>Items</th></tr>
+<tr><td>
+
+Name | Value |
+--- | --: |
+HP | 42 / 42 |
+KI | 6 / 6 |
+AC | 19 |
+Atk | +9 |
+Dmg | 1d6 +6 : 1d6 +1 |
+Speed | 45ft |
+HD | 3 / 5 : 1d8 |
+Init | +5 |
+Prof | +3 |
+
+</td><td>
+
+Item | Amount | Effect 
+--- | --- | --- 
+scrolls | 2 | unknown
+Acid | 9 | 20ft. 2d6 acid dmg
+Oil | 2 | 20ft. throw, 5 fire dmg 2 rounds
+Inv Dust | 1 | invisible, 2d4 min, 10ft sphere
+Healing | 2 | 1d12 + 6
+Healing | 1 | 1d10 + 4
+Healing | 2 | 1d8 + 2
+Healing | 5 | 1d6 + 1
+Dagger of Warning | 1| 1d4 pierce, adv. iniative, no suprise 30ft.
+Heavy Crossbow | 1| 1d10 pierce
+
+</td></tr>
+</table>
+
+Ability | Cost / Contex | Effect
+--- | --- | --- |
+Silence | 2ki | R - 120ft : D - concentration 10m : A - 20ft sphere : E - immune to thunder, deafened, no sound through or within
+Pass without trace | 2ki | R - self : D - concentration 60m : A - 30ft sphere : E - +10 stealth, can't be tracked, no trace left when moving
+Dark Vision | 2ki | R - touch : D - concentraction 60m : E - grant darkvision 60ft range
+Darkness | 2ki |  R - 60ft : D - concentration 10m : A - 15ft sphere : E - negates darkvision, negates non-magical light, moves with object, dispell light creation immune to thunder, deafened, no sound through or within
+Minor Illusion | &#8734; | R - 30ft : D - 1m : A - 5ft : E - sound, image,  
+Spare the Dying | &#8734; |  R - touch : E - stabilize 0hp creature, not undead or construct 
+Dancing Lights | &#8734; | R - 120ft : D - concentration 1m : A - 30ft per orb : E - 4 glowing orbs, dim-light, orbs within 20ft, can shape
+Faire Fire |  1 per day | R - 60ft : D - concentration 1m : A - 20ft cube : E - creature outlined, negates invisible, adv. on atk creature, dex save (no effect)
+Darkness |  1 per day | ''
+Extra Attack | attack / a. | attack twice on your turn
+Flurry of Blows | 1ki / ba. | make two unarmed strikes
+Patient Defense | 1ki / ba. | dodge
+Step of the Wind | 1ki / ba. | disengage or dash. double jump distance
+Stunning Strike | 1ki / ba. | stun enemy. Constituion save
+Shadow Step | < dim. ba. | teleport 60ft. to < dim space & adv. on first melee attack on that turn | 
+Deflect Missles | passive | Reduce range attack damage (1d10 + dex + lvl)
+Magical Resistance | passive | Advantage on Charm saves. Cannot induce sleep 
+
+<table>
+<tr><th>Ability</th><th>Skills</th></tr>
+<td>
+
+Name | Modifier
+--- | ---
+**Strength** (14) | +2
+**Dexterity** (20) | +5
+**Constitution** (14) | +2
+**Intelligence** (10) | 0
+**Wisdom** (15) | +2
+**Charisma** (10) | 0
+
+</td><td>
+
+Name | Modifier
+--- | ---
+Stealth | +13
+Perception | +11
+Insight | +6
+Medicine | +6
+Acrobatics | +6
+Sleight of Hand | +6
+Investigation | +6
+Athletics | +3
+Animal Handling | +3
+Arcana | +1
+History | +1
+Nature | +1
+Religion | +1
+Survival | +3
+Deception | +1
+Intimidation | +1
+Performance | +1
+Persuasion | +1
+
+</td>
+</table>
+
 ---
-## Important Attributes
-| Name | Value |
-|--|-:|
-| Hit Points | 27 / 42 |
-| Ki Points | 6 / 6 |
-| Armor Class | 19 | 
-| Initiative | +5 |
-| Speed | 45ft |
-| Proficiency | +3 |
-| Attack Mod. | +9 |
-| Damage Mod. | +6 on-hand, +1 off-hand|
-| Hit Die | 1d8, 5/5 |
-| Maximum Ki Points for a Spell | 3 |
-| Saving Throw DC | 13 |
 
-### Class & Race Abilities
-+ 2KI cast: Silence, Pass without trace, Dark Vision, Darkness
-+ Cantrip: Minor Illusion, Spare the Living, Dancing Lights
-+ Once a Day: Faire Fire, Darkness
+### Other Abilities
+Ability | Description
+--- | ---
+Slow Fall | Reaction reduce any falling damage by 5x Monk Level
+Unarmored Defence | No armor or shiled. AC = (10 + dex + wis)
+Martial Arts | Use Dex. mod. for attack and damage rolls & Roll special die for monk weapon & monk weapon attack you can make 1 unarmed strike as ba.
+Ki | You must spend at least 30 minutes of the rest meditating to regain your ki points. Saving throws for KI attacks are DC = (8 + prof. + wis.)
+Unarmoured Movement | (lvl 2) speed increases +10ft refer to Monk table. (lvl 9) move on vertical surfaces and across liquids without falling.
+Ki-Empowered Strikes | Unarmed strikes count as magical when overcoming resistances
+Trance | Sleep for only 4hrs instead of 8hrs.
 
-## Race & Character & Item Effects
-+ No surprise within 30ft.
-+ Advantage on Initiative.
-+ Blind: fail visual-only perception saves.
-+ Observant: +5 bonus Perception and Investigation.
-+ Deflect Missles: Reduce range attack damage (1d10 + dex + lvl)
-+ Magical Resistance: Advantage on Charm saves. Cannot induce sleep 
-+ Spare the Dying: Can stabilise a creature with 0 HP. Touch.
-
-
----
-## Ability Scores 
-| Name | Value | Modifier |
-|--|--:|--:|
-| Strength | 14 | +2 |
-| Dexterity | 20 | +5 |
-| Constitution | 14 | +2 |
-| Intelligence | 10 | 0 |
-| Wisdom | 15 | +2 |
-| Charisma | 10 | 0 |
-
----
-## Skills
-| Name | Ability | Ability Modifier | Total Modifier |
-|--|--:|--:|--:|
-| **Stealth** | Dexterity | +5 | +13 |
-| **Insight** | Wisdom| +2 | +6 |
-| **Medicine** | Wisdom| +2 | +6 |
-| **Perception** | Wisdom| +2 | +11 |
-| Athletics | Strength | +2 | +3 |
-| Acrobatics | Dexterity | +5 | +6 |
-| Sleight of Hand | Dexterity | +5 | +6 |
-| Arcana | Intelligence | +0 | +1 |
-| History | Intelligence | +0 | +1 |
-| Investigation | Intelligence | +0 | +6 |
-| Nature | Intelligence | +0 | +1 |
-| Religion | Intelligence | +0 | +1 |
-| Animal Handling | Wisdom| +2 | +3 |
-| Survival | Wisdom| +2 | +3 |
-| Deception | Charisma | +0 | +1 |
-| Intimidation | Charisma | +0 | +1 |
-| Performance | Charisma | +0 | +1 |
-| Persuasion | Charisma | +0 | +1 |
-
-## Inventory
-### Money:
-- 730 Gold 
-### Weapons:
-- _**Hands 1d6**_
-- Heavy Crossbow 1d10 (pierce)
-- Dagger of Warning 1d4
-    + no surprise within 30ft.
-    + Advantage on Initiative
-### Equipment:
+### Equipment & Other Items
+- Gold: 1310
+- Silver: 200
+- Valuable Paintings (3)
 - Elven Cloak (+4 Stealth)
 - Stone of Luck (+1 Ability)
-- Bracers of Heavenly Way
-    + +1 unarmed damage
-    + +1 unarmed attack
-    + +2 Armor Class
-### Tools:
-- Herbalism Kit
-### Items:
-- 9x Acid
-- 5x Oil
-- Dust of Invisibility (x2) [10ft. sphere. Invisible for 2d4 minutes. Invisibility ends if creature attacks.]
-- Healing 1d10 + 4 (x3)
-- Healing 1d8 + 2 x2
-- Healing 1d6 + 1 (×5)
+- Bracers of Heavenly Way: +1 unarmed dmg, +1 unarmed atk, +2 AC
 - Cultist Clothing
 - Tinderbox, 10x Torches
 - 10x pitons, Hammer
 - Bedroll
 - 50' Rope
+- Herbalism Kit
 
-## Backstory
-~~Once a follower of Laviatar. Blinded in combat and lost social status and outcast from drow society. Prejudice against other drow and their social structures. Generally hated by commoners (when they see him as a drow). He is usually cloaked. Joined the monastery of Illmayter. Monastery was destroyed by Cultists and a valuable relic was stolen from it.~~
+---
 
-## Proficiencies:
+
+
+### Race / Character Effects
++ Blind: fail visual-only perception saves.
++ Observant: +5 bonus Perception and Investigation.
++ Forced Concentration: MUST concentrate to "perceive the environment" before Attacking, Running, Readying, Reacting. Done as a perception check. Bonus action at the first turn of combat and every 1 minute thereafter. After a failed concentration bonus roll. You can use a regular action to roll for concentration.
+
+### Proficiencies:
 - Simple weapons
 - Short swords
 - Hand Crossbow
@@ -107,80 +137,15 @@
 - Stealth
 - Insight
 
-## Race and Character Features
-| Ability | Description |
-|--|--|
-| Trance | Sleep for only 4hrs instead of 8hrs. |
-| Magical Resistance | Advantage on Charm saves. Cannot induce sleep |
-| Blind (Character Trait) | Automatically fail all vision-only perception checks. | 
-| Observant Feat (Character Trait) | +5 bonus perception and investigation | 
-| Forced Concentration (Character Trait) | MUST concentrate to "perceive the environment" before Attacking, Running, Readying, Reacting. Done as a perception check. Bonus action at the first turn of combat and every 1 minute thereafter. After a failed concentration bonus roll. You can use a regular action to roll for concentration. | 
-| Spare the Living (lvl 0) | Can stabilise a creature with 0 HP. Touch. |
-| Faire Fire | Once a day |
-| Darkness | Once a day |
-
-
-## Monk Abilities ##
-### Inate Abilities
-| Ability | Description |
-|--|--|
-| Flurry of Blows | 1 KI. Bonus Action to make two unarmed strikes |
-| Patient Defense | 1 KI. Bonus Action to dodge |
-| Step of the Wind | 1 KI. Bonus Action to disengage or dash. double jump distance |
-| Stunning Strike | 1KI. Bonus Action to stun enemy. Constituion save |
-| Slow Fall | Reaction reduce any falling damage by 5x Monk Level |
-| Deflect Missles | Reduce range attack damage (1d10 + dex + lvl). If damage reduce to 0, can spend 1KI. to use projectile as monk weapon. |
-| Unarmored Defence | No armor or shiled. Your AC = (10 + dex + wis) |
-| Martial Arts | Use Dex. Modifier for attack and damage rolls. Roll 1d4 in place of the normal damage of your unarmed strike or monk weapon. When you use the Attack action with an unarmed strike or a monk weapon on Your Turn, you can make one unarmed strike as a Bonus Action. |
-| Ki | You must spend at least 30 minutes of the rest meditating to regain your ki points. Saving throws for KI attacks are DC = (8 + prof. + wis.) |
-| Unarmoured Movement | (lvl 2) speed increases +10ft refer to Monk table. (lvl 9) move on vertical surfaces and across liquids without falling. |
-| Extra Attack | You can attack twice, instead of once, whenever you take the Attack action on your turn. |
-| Ki-Empowered Strikes | Unarmed strikes count as magical when overcoming resistances |
-| Enemy KI save | 8 + proficiency + wisdom mod. |
-
-
-### Available Monk Abilities (Way of Shadow)
-| Ability | Description |
-|--|--|
-| Shadow Arts | Cast Minor Illusion as cantrip. Cast Darkness, Dark Vision, Pass without trace, Silence using 2KI. |
-| Shadow Step | In dim light/darkness, use bonus action to teleport 60ft. to empty space in dim light/darkness. Adv. on first melee attack on that turn | 
-
----- (Way of Elements) ----
-| Ability | Description |
-|--|--|
-| Sweeping Cinder Strike | 2KI, burning hands |
-| Water Whip | 2 KI. Bonus Action. 30 feet single. 3d10 damage + (1d10 x 1KI spent). Pull prone or 25ft closer. Dexerity saving throw, half damage no pull. |
-| Shape the Flowing River | 1 KI, action, move and reshape ice or water within 120ft. no damage. |
-| Fangs of the Fire Snake | 1KI, unarmed range 10 feet for turn. fire damage on hit. on hit spend 1KI extra 1d10 fire damage |
-| Fists of Four Thunders | 2KI thunderwave |
-| Fist of Unbroken Air | 2KI action, one creature, 30ft, Strength saving throw. Fail: 3d10 bludgeoning + (1d10 x 1KI spent), push 20ft prone. Success: half as much damage, no other effects |
-| Rush of the Gale Spirits | 2KI, gust of wind |
-| Gong of the Summit | 3KI, shatter | 
-| Clench of the North Wind | hold person, 3ki |
-
-### Spell Descriptions
-| Name | Effect |
-|:--|:--|
-| Silence | 120ft range. concentration 10min. 20ft. sphere no sound pass through or from within. deafened, immune to thunder, verbal spell is impossible. |
-| Pass without trace | self. concentration 1hr. 30ft sphere, chosen creatures, +10 stealth checks and can’t be tracked except by magical means, leaves behind no traces of its passage. |
-| Dark Vision | touch. 8hrs. grants darkvision 60ft. |
-| Minor Illusion | 30ft range. 1min. create sound or image of an object. max size 5ft. max volume scream. |
-| Darkness | 60ft range, concentration 10min. 15ft sphere. negates darkvision, negates nonmagical light, moves with targetted object. dispells a spell that creates light that overlaps the AOE|
-| Faire Fire | 60ft range, 20ft cube. Concentration 1min. creature outlined. Dexterity save [fail: negates invisible. adv on attack rolls against creature, success: no effect] |
-| Dancing Lights | 120ft range. concentration 1min. 4 glowing orbs within 20ft, can shape, sheds dim-light 30ft. | 
-| Spare the Dying | touch. 0hp creature becomes stable. no effect on undead or constructs. |
-
-
-| Name | Effect | Higher Levels |
-|:--|:--|:--|
-| Burning Hands | 3d6 fire damage, 15ft cone, DEX saving throw - 1/2 damage on success | + 1d6 damage per level |
-| Gust of Wind | 60ft line, 10ft wide, concentration 1min, twice movement cost inside gust, extinguish flames, bonus action can change direction of gust, creature starting turn in gust strength save [Fail: pushed 15ft away ] | null |
-| Hold Person | 60ft range, concentration 1min. humanoid. each turn Wisdom save [fail: paralyzed, success: spell ends] | +1 additional humanoid within 30ft of each other |
-| ThunderWave | 15ft cube. Constitution save [fail: 2d8 thunder damage, pushed 10ft, success: half damage not pushed], audible sound, items pushed | +1d8 per level |
-| Shatter | 60ft range, 10ft radius sphere effect, Constitution save [fail: 3d8 thunder dmg , success: half dmg ]. creature made of inorganic material has disadv. on save | +1d8 per level |
-
-
-## Languages
+### Languages
 - Common
 - Undercommon
 - Elven
+
+### Character Details
+
+- Name: Kaladrin Deani
+- Race: Dark Elf 
+- Class: Monk
+- Level: 6
+
