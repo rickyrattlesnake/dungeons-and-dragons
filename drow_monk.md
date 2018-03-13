@@ -149,3 +149,48 @@ Trance | Sleep for only 4hrs instead of 8hrs.
 - Class: Monk
 - Level: 6
 
+--------
+
+# Future advancement options
+
+## Feats
+
+- Defensive Duelist:
+   - When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
+- Mage Slayer:
+    + When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.
+    + When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.
+    + You have advantage on saving throws against spells cast by creatures within 5 feet of you.
+- Magic Initiate: two cantrips + 1st lvl spell
+    - cleric:
+        - cure wounds (1)
+        - guidance (0)
+        - Thaumaturgy (0)
+        - Bane (1)
+        - Bless (1)
+        - inflict wounds (1)
+        - guiding bolt (1)
+        - Protection from G & E (1)
+        - Sacred Flame (0)
+        - Shield of Faith (1)
+    - druid:
+        - produce flame (0)
+        - guidance (0) 
+        - cure wounds (1)
+        - entangle (1)
+        - fog cloud (1)
+        - thunderwave (1)
+    - wizard
+        - message (0)
+        - true strike (0)
+        - prestidigitation (0)
+        - alarm (1)
+        - magic missle (1)
+        - shield (5)
+        - firebolt (0)
+        - mage hand (0)
+- savage attacker
+    - reroll a damage dice for an attack per turn
+- tough:
+    - Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
+
